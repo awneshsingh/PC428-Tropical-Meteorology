@@ -4,7 +4,7 @@
 
 Contact: Dr. Awnesh Singh [@usp](mailto:awnesh.singh@usp.ac.fj)
 
-<hr size=5>
+  <hr size=5>
 
 ### Table of contents
 
