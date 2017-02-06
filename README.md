@@ -9,8 +9,8 @@ Contact: Dr. Awnesh Singh [@usp](mailto:awnesh.singh@usp.ac.fj)
 ### Table of contents
 
 - [The Anaconda Python Distribution](#the-anaconda-python-distribution)
-- [Installation of Some additional libraries](#installation-of-additional-libraries)
-- [Running the IPython notebooks](#running-the-ipython-notebooks)
+- [Installation of Additional Libraries](#installation-of-additional-libraries)
+- [Running the Jupyter Notebooks](#running-the-jupyter-notebooks)
 - [Troubleshooting](#troubleshooting)
 - [Rendered notebooks](#rendered-notebooks)
 
@@ -18,7 +18,7 @@ Contact: Dr. Awnesh Singh [@usp](mailto:awnesh.singh@usp.ac.fj)
 
 ## The Anaconda Python Distribution
 
-You will first need to to install the **Anaconda Python distribution**. It is a completely free enterprise-ready Python distribution for large-scale data processing, predictive analytics, and scientific computing. It includes the python interpreter itself, the python standard library as well as a set of packages exposing data structures and methods for data manipulation and scientific computing and visualization. In particular it provides [Numpy](http://www.numpy.org/), [Scipy](http://www.scipy.org/), [Pandas](http://pandas.pydata.org/), [Matplotlib](http://matplotlib.org/), [scikit-learn](http://scikit-learn.org/stable/), etc ... i.e. all the main packages we will be using during the semester. The full list of packages is available at:
+You will first need to to install the **Anaconda Python distribution**. It is a completely free enterprise-ready Python distribution for large-scale data processing, predictive analytics, and scientific computing. It includes the python interpreter itself, the python standard library as well as a set of packages exposing data structures and methods for data manipulation and scientific computing and visualization. In particular it provides [Numpy](http://www.numpy.org/), [Scipy](http://www.scipy.org/), [Pandas](http://pandas.pydata.org/), [Matplotlib](http://matplotlib.org/), [scikit-learn](http://scikit-learn.org/stable/), etc., i.e., all the main packages we will be using during the semester. The full list of packages is available at:
 
 [http://docs.continuum.io/anaconda/pkgs.html](http://docs.continuum.io/anaconda/pkgs.html)
 
@@ -44,7 +44,7 @@ You also might want to install [pip](https://github.com/pypa/pip) to install pac
 $ conda install pip
 ```
 
-## Installation of additional libraries
+## Installation of Additional Libraries
 
 ### netcdf4
 
@@ -78,7 +78,7 @@ $ conda install seaborn
 $ conda install xarray
 ```
 
-## Running the Jupyter notebooks
+## Running the Jupyter Notebooks
 
 The material for the semester is in the form of [Jupyter notebooks](http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html). In a nutshell a Jupyter notebook is a web-based (i.e., running in the browser) interactive computational environment where you can combine Python code execution, text, mathematics, plots and rich media into a single document, which makes it an ideal medium for teaching and exploring code.
 
