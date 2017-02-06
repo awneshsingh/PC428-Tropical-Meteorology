@@ -2,10 +2,11 @@
 
 [Pacific Centre for Environment and Sustainable Development (PaCE-SD)](http://pace.usp.ac.fj/)
 [The University of the South Pacific](http://usp.ac.fj)
+Suva, Fiji
 
 Contact: Dr. Awnesh Singh [@usp](mailto:awnesh.singh@usp.ac.fj)
 
-<hr size=10>
+<hr size=5>
 
 ### Table of contents
 
@@ -23,25 +24,23 @@ You will first need to to install the **Anaconda Python distribution**. It is a 
 
 [http://docs.continuum.io/anaconda/pkgs.html](http://docs.continuum.io/anaconda/pkgs.html)
 
-The Anaconda python distribution (**NOTE**: select the version shipping with Python 3.6) must be downloaded for your platform (either 32-bit or 64-bit operating system) from:
+The Anaconda python distribution (**NOTE**: select the version shipping with Python 3.6) should be downloaded for your platform (either 32-bit or 64-bit operating system) from:
 
 [http://continuum.io/downloads](http://continuum.io/downloads)
 
-Once you have installed Anaconda, you can update to the latest compatible versions of all the pre-installed packages by running:
+Execute the downloaded program and follow the instructions to install Anaconda. Once installed, you can update to the latest compatible versions of all the pre-installed packages by running the Anaconda Prompt as an Administrator [Start>Anaconda3(64-bit) then right click on Anaconda prompt to Run as Administrator]. Type the following at the terminal to update to the latest version of all pre-installed packages:
 
 ```
 $ conda update conda
 ```
 
-Then
+Then tyoe the following:
 
 ```
 $ conda update anaconda
 ```
 
-In a terminal.
-
-You also might want to install [pip](https://github.com/pypa/pip) to install packages from the [Python Package Index](http://pypi.python.org/pypi).
+You also might want to install [pip](https://github.com/pypa/pip) to install packages from the [Python Package Index](http://pypi.python.org/pypi) by typing:
 
 ```
 $ conda install pip
