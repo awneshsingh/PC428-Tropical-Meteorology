@@ -3,10 +3,7 @@
 Pacific Centre for Environment and Sustainable Development (PaCE-SD)](http://pace.usp.ac.fj/)
 The University of the South Pacific(http://usp.ac.fj)
 
-Contact:
-
-Dr. Awnesh Singh
-+ [@usp](mailto:awnesh.singh@usp.ac.fj)
+Contact: Dr. Awnesh Singh [@usp](mailto:awnesh.singh@usp.ac.fj)
 
 <hr size=10>
 
