@@ -1,8 +1,6 @@
 # Python for PC428: Tropical Meteorology
 
-[Pacific Centre for Environment and Sustainable Development (PaCE-SD)](http://pace.usp.ac.fj/)
-[The University of the South Pacific](http://usp.ac.fj)
-Suva, Fiji
+[Pacific Centre for Environment and Sustainable Development (PaCE-SD)](http://pace.usp.ac.fj/), [The University of the South Pacific](http://usp.ac.fj), Suva, Fiji
 
 Contact: Dr. Awnesh Singh [@usp](mailto:awnesh.singh@usp.ac.fj)
 
@@ -10,7 +8,7 @@ Contact: Dr. Awnesh Singh [@usp](mailto:awnesh.singh@usp.ac.fj)
 
 ### Table of contents
 
-- [The Anaconda python distribution](#the-anaconda-python-distribution)
+- [The Anaconda Python Distribution](#the-anaconda-python-distribution)
 - [Installation of Some additional libraries](#installation-of-additional-libraries)
 - [Running the IPython notebooks](#running-the-ipython-notebooks)
 - [Troubleshooting](#troubleshooting)
@@ -18,7 +16,7 @@ Contact: Dr. Awnesh Singh [@usp](mailto:awnesh.singh@usp.ac.fj)
 
 <hr size=5>
 
-## The Anaconda python distribution
+## The Anaconda Python Distribution
 
 You will first need to to install the **Anaconda Python distribution**. It is a completely free enterprise-ready Python distribution for large-scale data processing, predictive analytics, and scientific computing. It includes the python interpreter itself, the python standard library as well as a set of packages exposing data structures and methods for data manipulation and scientific computing and visualization. In particular it provides [Numpy](http://www.numpy.org/), [Scipy](http://www.scipy.org/), [Pandas](http://pandas.pydata.org/), [Matplotlib](http://matplotlib.org/), [scikit-learn](http://scikit-learn.org/stable/), etc ... i.e. all the main packages we will be using during the semester. The full list of packages is available at:
 
@@ -34,7 +32,7 @@ Execute the downloaded program and follow the instructions to install Anaconda. 
 $ conda update conda
 ```
 
-Then tyoe the following:
+Then type the following:
 
 ```
 $ conda update anaconda
@@ -50,7 +48,7 @@ $ conda install pip
 
 ### netcdf4
 
-[netcdf4](https://github.com/Unidata/netcdf4-python) allows you to read and write netcdf files (version 3 and 4 supported), install it by:
+[netcdf4](https://github.com/Unidata/netcdf4-python) allows you to read and write netcdf files (version 3 and 4 supported), install it by typing:
 
 ```
 $ conda install netcdf4
@@ -58,7 +56,7 @@ $ conda install netcdf4
 
 ### Basemap
 
-**Basemap** is a graphic library for plotting (static, publication quality) geographical maps (see [http://matplotlib.org/basemap/](http://matplotlib.org/basemap/)). **Basemap** is available directly in **Anaconda** using the conda package manager, install with:
+**Basemap** is a graphic library for plotting (static, publication quality) geographical maps (see [http://matplotlib.org/basemap/](http://matplotlib.org/basemap/)). **Basemap** is available directly in **Anaconda** using the conda package manager, install by typing:
 
 ```
 $ conda install basemap
@@ -71,9 +69,10 @@ $ conda install basemap
 ```
 $ conda install seaborn
 ```
+
 ### xarray
 
-[xarray](https://github.com/xarray/xarray) (previously *xray*) is a library aimed at bringing the power of Pandas to multidimensional labelled arrays, such as the ones usually associated with geophysical quantities varying along time and space dimensions (e.g. [time, latitudes, longitudes], [time, level, latitudes, longitudes], etc) and supports reading and writing netcdf files. It can be installed via `conda`:
+[xarray](https://github.com/xarray/xarray) is a library aimed at bringing the power of Pandas to multidimensional labelled arrays, such as the ones usually associated with geophysical quantities varying along time and space dimensions (e.g., [time, latitudes, longitudes], [time, level, latitudes, longitudes], etc.) and supports reading and writing netcdf files. It can be installed via `conda` by typing:
 
 ```
 $ conda install xarray
@@ -81,8 +80,7 @@ $ conda install xarray
 
 ## Running the Jupyter notebooks
 
-The material of the tutorial is in the form of [Jupyter notebooks](http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html). In a nutshell a Jupyter notebook is a web-based (i.e. running in the browser) interactive computational environment where you can combine Python code execution, text, mathematics, plots and rich media into a single document, which makes it an ideal medium for teaching and exploring code.
-
+The material for the semester is in the form of [Jupyter notebooks](http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html). In a nutshell a Jupyter notebook is a web-based (i.e., running in the browser) interactive computational environment where you can combine Python code execution, text, mathematics, plots and rich media into a single document, which makes it an ideal medium for teaching and exploring code.
 
 After uncompressing the archive of the repo (or after cloning it with ```git```), navigate to the corresponding directory (containing the ```*.ipynb``` files, e.g. `session_1/notebooks`) and type:
 
