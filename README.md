@@ -1,18 +1,12 @@
-# PC428-Tropical-Meteorology
-A repository of essential material for this course can be found here
+# Python for PC428: Tropical Meteorology
 
-PC428-Tropical-Meteorology/README.md
-
-# Python for Climate Data Analysis and Visualisation
-
-[USP](http://www.usp.ac.fj/) / [Pacific Centre for Environment and Sustainable Development (PaCE-SD)](http://pace.usp.ac.fj/) Suva, Fiji, the 20 and 21 October 2016
+Pacific Centre for Environment and Sustainable Development (PaCE-SD)](http://pace.usp.ac.fj/)
+The University of the South Pacific(http://usp.ac.fj)
 
 Contact:
 
-Nicolas Fauchereau
-
-+ [@gmail](mailto:Nicolas.Fauchereau@gmail.com)
-+ [@niwa](mailto:Nicolas.Fauchereau@niwa.co.nz)
+Dr. Awnesh Singh(mailto:awnesh.singh@usp.ac.fj)
++ [@usp](mailto:Nicolas.Fauchereau@niwa.co.nz)
 
 <hr size=5>
 
