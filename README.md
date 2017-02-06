@@ -5,10 +5,10 @@ The University of the South Pacific(http://usp.ac.fj)
 
 Contact:
 
-Dr. Awnesh Singh(mailto:awnesh.singh@usp.ac.fj)
-+ [@usp](mailto:Nicolas.Fauchereau@niwa.co.nz)
+Dr. Awnesh Singh
++ [@usp](mailto:awnesh.singh@usp.ac.fj)
 
-<hr size=5>
+<hr size=10>
 
 ### Table of contents
 
