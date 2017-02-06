@@ -22,11 +22,11 @@ You will first need to to install the **Anaconda Python distribution**. It is a 
 
 [http://docs.continuum.io/anaconda/pkgs.html](http://docs.continuum.io/anaconda/pkgs.html)
 
-The Anaconda python distribution (**NOTE**: select the version shipping with Python 3.6) should be downloaded for your platform (either 32-bit or 64-bit operating system) from:
+The Anaconda Python distribution (**NOTE**: select the version shipping with Python 3.6) should be downloaded for your platform (either 32-bit or 64-bit operating system) from:
 
 [http://continuum.io/downloads](http://continuum.io/downloads)
 
-Execute the downloaded program and follow the instructions to install Anaconda. Once installed, you can update to the latest compatible versions of all the pre-installed packages by running the Anaconda Prompt as an Administrator [Start>Anaconda3(64-bit) then right click on Anaconda prompt to Run as Administrator]. Type the following at the terminal to update to the latest version of all pre-installed packages (the dollar represents the prompt):
+Execute the downloaded file and follow the instructions to install Anaconda. Once installed, you can update to the latest compatible versions of all the pre-installed packages by running the Anaconda Prompt as an Administrator [Start>Anaconda3(64-bit) then right click on Anaconda prompt to Run as Administrator]. Type the following at the terminal to update to the latest version of all pre-installed packages (the dollar represents the prompt):
 
 ```
 $ conda update conda
@@ -58,7 +58,8 @@ $ conda install netcdf4
 
 **Basemap** is a graphic library for plotting (static, publication quality) geographical maps (see [http://matplotlib.org/basemap/](http://matplotlib.org/basemap/)). **Basemap** is available directly in **Anaconda** using the conda package manager, install by typing:
 
-```
+```conda install seaborn
+
 $ conda install basemap
 ```
 
