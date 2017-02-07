@@ -16,11 +16,7 @@ Contact: [Dr. Awnesh Singh](mailto:awnesh.singh@usp.ac.fj)
 
 ## The Anaconda Python Distribution
 
-You will first need to to install the **Anaconda Python distribution**. It is a completely free enterprise-ready Python distribution for large-scale data processing, predictive analytics, and scientific computing. It includes the python interpreter itself, the python standard library as well as a set of packages exposing data structures and methods for data manipulation and scientific computing and visualization. In particular it provides [Numpy](http://www.numpy.org/), [Scipy](http://www.scipy.org/), [Pandas](http://pandas.pydata.org/), [Matplotlib](http://matplotlib.org/), [scikit-learn](http://scikit-learn.org/stable/), etc., i.e., all the main packages we will be using during the semester. The full list of packages is available at:
-
-[http://docs.continuum.io/anaconda/pkgs.html](http://docs.continuum.io/anaconda/pkgs.html)
-
-The Anaconda Python distribution (**NOTE**: select the version shipping with Python 3.6) should be downloaded for your platform (either 32-bit or 64-bit operating system) from:
+You will first need to to install the **Anaconda Python distribution**. It is a completely free enterprise-ready Python distribution for large-scale data processing, predictive analytics, and scientific computing. It includes the python interpreter itself, the python standard library as well as a set of packages exposing data structures and methods for data manipulation and scientific computing and visualization. In particular it provides [Numpy](http://www.numpy.org/), [Scipy](http://www.scipy.org/), [Pandas](http://pandas.pydata.org/), [Matplotlib](http://matplotlib.org/), [scikit-learn](http://scikit-learn.org/stable/), etc., i.e., all the main packages we will be using during the semester. The Anaconda Python distribution (**NOTE**: select the version shipping with Python 3.6) should be downloaded for your platform (either 32-bit or 64-bit operating system) from:
 
 [http://continuum.io/downloads](http://continuum.io/downloads)
 
