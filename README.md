@@ -218,3 +218,4 @@ Open an `incognito` window from your browser and copy the URL (`http://localhost
 + [xarray](https://cdn.rawgit.com/nicolasfauchereau/USP_Python_workshop/master/session_2/notebooks/xarray.html)
 
 + [Basemap](https://cdn.rawgit.com/nicolasfauchereau/USP_Python_workshop/master/session_2/notebooks/Basemap.html)
+
