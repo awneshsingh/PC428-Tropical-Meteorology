@@ -4,7 +4,7 @@
 
 Contact: Dr. Awnesh Singh [@usp](mailto:awnesh.singh@usp.ac.fj)
 
-  <hr size=5>
+<hr size=5>
 
 ### Table of contents
 
@@ -84,7 +84,7 @@ $ conda install xarray
 
 The material for the course is in the form of [Jupyter notebooks](http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html). In a nutshell, a Jupyter notebook is a web-based interactive computational environment (i.e., running in the browser) where you can combine Python code execution, text, mathematics, plots and rich media into a single document, which makes it an ideal medium for teaching and exploring code.
 
-After uncompressing the archive of the repo (or after cloning it with ```git```), navigate to the corresponding directory (containing the ```*.ipynb``` files, e.g. `session_1/notebooks`) and type:
+Create a folder on your Desktop and name PC428_Python. Then on you terminal, navigate to this folder (e.g., type cd \Users\singh_aw|desktop\PC428_Python and press enter) then type:
 
 ```
 $ jupyter notebook
