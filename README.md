@@ -6,12 +6,11 @@ Contact: Dr. Awnesh Singh [@usp](mailto:awnesh.singh@usp.ac.fj)
 
 <hr size=5>
 
-### Table of contents
+### Table of Contents
 
 - [The Anaconda Python Distribution](#the-anaconda-python-distribution)
 - [Installation of Additional Libraries](#installation-of-additional-libraries)
 - [Running the Jupyter Notebooks](#running-the-jupyter-notebooks)
-- [Rendered notebooks](#rendered-notebooks)
 
 <hr size=5>
 
