@@ -11,7 +11,6 @@ Contact: Dr. Awnesh Singh [@usp](mailto:awnesh.singh@usp.ac.fj)
 - [The Anaconda Python Distribution](#the-anaconda-python-distribution)
 - [Installation of Additional Libraries](#installation-of-additional-libraries)
 - [Running the Jupyter Notebooks](#running-the-jupyter-notebooks)
-- [Troubleshooting](#troubleshooting)
 - [Rendered notebooks](#rendered-notebooks)
 
 <hr size=5>
@@ -59,8 +58,7 @@ $ conda install netcdf4
 
 **Basemap** is a graphic library for plotting (static, publication quality) geographical maps (see [http://matplotlib.org/basemap/](http://matplotlib.org/basemap/)). **Basemap** is available directly in **Anaconda** using the conda package manager, install by typing:
 
-```conda install seaborn
-
+```
 $ conda install basemap
 ```
 
@@ -93,104 +91,6 @@ $ jupyter notebook
 That should bring up the Jupyter notebook dashboard (looking as below), you should be ready to go !
 
 ![](http://nbviewer.ipython.org/github/nicolasfauchereau/Python-for-data-analysis-and-visualisation/blob/master/session_1/notebooks/images/ipython_dashboard.png)
-
-## Troubleshooting
-
-You might run into some problems installing additional libraries via `conda` or `pip` and/or running the IPython notebooks, especially on Windows machines behind a proxy, here are a few solutions that may work:
-
-**1. Proxy settings for conda:**
-
-If you are behind a proxy, you could encounter some issues. Try first to
-create a `.condarc` file (the '.' is important) in your HOME directory (on windows it should be `C:\Users\username`) and add the following lines:
-
-```
-proxy_servers:
-    http: http://url:port
-    https: http://url:port
-```  
-
-**2. specify proxy when using pip**
-
-Again if you are behind a proxy, and if you are running into issues installing libraries via pip, try specifying the proxy to use at the command line, e.g.,
-
-```
-pip install --proxy=http://url:port bearcart
-```
-
-**3. Set-up system-wide proxy settings**
-
-+ On Macs: in your `${HOME}/.bash_profile`, insert these lines
-
-```
-export http_proxy=http://url:port
-export https_proxy=http://url:port
-
-```
-
-+ On Linux machines, do the same as above in your `${HOME}/.bashrc`
-
-+ On Windows machines:
-
-  + As an administrator go to `Control Panel>System>Advanced Systems Settings>Advanced Tab>Environment Variables>System Variables>New` and set
-  
-
-  ```
-  HTTP_PROXY=http://url:port/
-  HTTPS_PROXY=https://url:port/
-  ```
-
-  + You can also do that in a command window by typing:
-
-  ```
-  $ SET HTTP_PROXY=http://url:port/
-  $ SET HTTPS_PROXY=http://url:port/
-  ```
-
-**4. Use Firefox/Gppgle Chrome instead of Internet Explorer to open the notebooks**
-
-  The Jupyter notebook is an interactive web-based 'notebook', where executable python code can be weaved with rich comments, graphic outputs etc., which make it ideal for presenting interactive tutorials. When (in a command prompt) you navigate to the directory where you have downloaded the notebooks and type:
-
-  ```
-  $ jupyter notebook
-  ```
-
-  A 'dashboard' with the list of notebooks should come up in your browser. If you are on windows, chances are that your default browser is Internet Explorer, which is generally bad news. If you encounter problems (blank page, notebooks not loading, kernel interruptions etc), it's probably because of Internet Explorer. What I suggest is that you download [Firefox](https://www.mozilla.org/en-US/firefox/new/) or [Chrome](https://www.google.com/chrome/browser/desktop/) for Windows and make it the default browser.
-
-**5. Specify localhost when calling the IPython notebook**
-
-On some configurations, you might also need to call:
-
-```
-$ jupyter notebook --ip=127.0.0.1
-```
-
-To specify that the browser should connect to *localhost*
-
-**6. Clear the cache**
-
-If you are still running into issues (notably dashboard or jupyter notebook not displaying correctly), try *clearing the cache of your browser*
-
-**7. Use an `incognito` window**
-
-If all else fails (!), one thing that has been reported working is:
-
-+ launch the `jupyter notebook` in no-browser mode:
-
-```
-jupyter notebook --no-browser
-```
-
-You should see an output in the terminal looking like:
-
-```
-...
-The jupyter Notebook is running at: http://localhost:8888/
-...
-```
-
-Note that the URL and port could be different in your case.
-
-Open an `incognito` window from your browser and copy the URL (`http://localhost:8888/`) in the address bar.
 
 ## Rendered notebooks
 
