@@ -2,9 +2,7 @@
 
 [Pacific Centre for Environment and Sustainable Development (PaCE-SD)](http://pace.usp.ac.fj/),
 
-[The University of the South Pacific](http://www.usp.ac.fj),
-
-Suva, Fiji
+[The University of the South Pacific](http://www.usp.ac.fj), Suva, Fiji
 
 Contact: [Dr. Awnesh Singh](mailto:awnesh.singh@usp.ac.fj)
 
@@ -76,6 +74,14 @@ $ conda install seaborn
 
 ```
 $ conda install xarray
+```
+
+### And just to be sure ...
+
+that you have all the necessary packages, type:
+
+```
+$ conda update --all
 ```
 
 ## Running the Jupyter Notebooks
