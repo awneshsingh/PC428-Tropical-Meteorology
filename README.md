@@ -80,9 +80,7 @@ $ conda install xarray
 
 ## Running the Jupyter Notebooks
 
-The material for the course is in the form of [Jupyter notebooks](http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html). In a nutshell, a Jupyter notebook is a web-based interactive computational environment (i.e., running in the browser) where you can combine Python code execution, text, mathematics, plots and rich media into a single document, which makes it an ideal medium for teaching and exploring code.
-
-Create a folder on your Desktop and name PC428_Python. Then on you terminal, navigate to this folder (e.g., type cd \Users\singh_aw|desktop\PC428_Python and press enter) then type:
+The material for the course is in the form of [Jupyter notebooks](http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html). In a nutshell, a Jupyter notebook is a web-based interactive computational environment (i.e., running in the browser) where you can combine Python code execution, text, mathematics, plots and rich media into a single document, which makes it an ideal medium for teaching and exploring code. Create a folder on your Desktop and name PC428_Python. Then on you terminal, navigate to this folder (e.g., type cd \Users\singh_aw|desktop\PC428_Python and press enter) then type:
 
 ```
 $ jupyter notebook
@@ -91,31 +89,4 @@ $ jupyter notebook
 That should bring up the Jupyter notebook dashboard (looking as below), you should be ready to go !
 
 ![](http://nbviewer.ipython.org/github/nicolasfauchereau/Python-for-data-analysis-and-visualisation/blob/master/session_1/notebooks/images/ipython_dashboard.png)
-
-## Rendered notebooks
-
-**SESSION 1**
-
-+ [resources and acknowledgments](https://cdn.rawgit.com/nicolasfauchereau/USP_Python_workshop/master/session_1/notebooks/resources.html)
-
-+ [Jupyter notebook
-  overview](https://cdn.rawgit.com/nicolasfauchereau/USP_Python_workshop/master/session_1/notebooks/Jupyter_notebook.html)
-
-+ [Python language basics](https://cdn.rawgit.com/nicolasfauchereau/USP_Python_workshop/master/session_1/notebooks/introduction_python.html)
-
-+ [Numpy](https://cdn.rawgit.com/nicolasfauchereau/USP_Python_workshop/master/session_1/notebooks/Numpy.html)
-
-+ [Scipy](https://cdn.rawgit.com/nicolasfauchereau/USP_Python_workshop/master/session_1/notebooks/Scipy.html)
-
-+ [Matplotlib](https://cdn.rawgit.com/nicolasfauchereau/USP_Python_workshop/master/session_1/notebooks/Matplotlib.html)
-
-+ [Pandas](https://cdn.rawgit.com/nicolasfauchereau/USP_Python_workshop/master/session_1/notebooks/Pandas.html)
-
-**SESSION 2**
-
-+ [More on pandas](https://cdn.rawgit.com/nicolasfauchereau/USP_Python_workshop/master/session_2/notebooks/Pandas.html)
-
-+ [xarray](https://cdn.rawgit.com/nicolasfauchereau/USP_Python_workshop/master/session_2/notebooks/xarray.html)
-
-+ [Basemap](https://cdn.rawgit.com/nicolasfauchereau/USP_Python_workshop/master/session_2/notebooks/Basemap.html)
 
