@@ -1,2 +1,2 @@
 # PC428-Tropical-Meteorology
-A repository of essential material for this course can be found here
+A repository for essential material used in this course can be found here.
