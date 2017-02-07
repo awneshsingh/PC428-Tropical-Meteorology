@@ -1,7 +1,9 @@
 # Python for PC428: Tropical Meteorology
 
 [Pacific Centre for Environment and Sustainable Development (PaCE-SD)](http://pace.usp.ac.fj/),
-[The University of the South Pacific](http://wwwusp.ac.fj),
+
+[The University of the South Pacific](http://www.usp.ac.fj),
+
 Suva, Fiji
 
 Contact: [Dr. Awnesh Singh](mailto:awnesh.singh@usp.ac.fj)
