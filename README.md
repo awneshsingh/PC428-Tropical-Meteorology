@@ -4,15 +4,13 @@
 
 Contact: Dr. Awnesh Singh [@usp](mailto:awnesh.singh@usp.ac.fj)
 
-<hr size=5>
 
-### Table of Contents
+## Table of Contents
 
 - [The Anaconda Python Distribution](#the-anaconda-python-distribution)
 - [Installation of Additional Libraries](#installation-of-additional-libraries)
 - [Running the Jupyter Notebooks](#running-the-jupyter-notebooks)
 
-<hr size=5>
 
 ## The Anaconda Python Distribution
 
@@ -25,7 +23,6 @@ The Anaconda Python distribution (**NOTE**: select the version shipping with Pyt
 [http://continuum.io/downloads](http://continuum.io/downloads)
 
 Execute the downloaded file and follow the instructions to install Anaconda. Once installed, you can update to the latest compatible versions of all the pre-installed packages by running the Anaconda Prompt as an Administrator [Start>Anaconda3(64-bit) then right click on Anaconda prompt to Run as Administrator]. Type the following at the terminal to update to the latest version of all pre-installed packages (the dollar represents the prompt):
-
 
 ```
 $ conda update conda
