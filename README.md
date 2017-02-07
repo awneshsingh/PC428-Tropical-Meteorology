@@ -96,3 +96,5 @@ That should bring up the Jupyter notebook dashboard (looking as below), you shou
 
 ![](http://nbviewer.ipython.org/github/nicolasfauchereau/Python-for-data-analysis-and-visualisation/blob/master/session_1/notebooks/images/ipython_dashboard.png)
 
+Note that what you see above and what you would see on your screen would be differernt. I shall be giving you notes and exercises to do on Python. These will be provided on Moodle and you will need to download and save them in the **PC428_Python** folder you created on your Desktop.
+
