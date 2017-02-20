@@ -77,7 +77,7 @@ $ conda install xarray
 GNU Wget (or just Wget, formerly Geturl, also written as its package name, wget) is a computer program that retrieves content from web servers. It is part of the GNU Project. Its name derives from World Wide Web and get. It supports downloading via the HTTP, HTTPS, and FTP protocols.
 
 ```
-$ conda install wget
+$ conda install -c anaconda wget=2.2
 ```
 
 ### And just to be sure ...
