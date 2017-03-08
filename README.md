@@ -48,9 +48,9 @@ $ conda install pip
 $ conda install netcdf4
 ```
 
-### ncdump
+### libjpeg
 
-[libjpeg] (https://pypi.python.org/pypi/jpeg4py/0.1.1) is a free library with functions for handling the JPEG image data format.
+[libjpeg] (https://pypi.python.org/pypi/jpeg4py/0.1.1) is a free library with functions for handling the JPEG image data format and be installed by typing:
 
 ```
 $ brew install libjpeg
