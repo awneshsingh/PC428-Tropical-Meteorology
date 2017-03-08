@@ -50,10 +50,10 @@ $ conda install netcdf4
 
 ### ncdump
 
-[ncdump](https://www.unidata.ucar.edu/software/netcdf/netcdf-4/newdocs/netcdf/ncdump.html) may be used as a simple browser for netCDF datasets, to display the dimension names and lengths; variable names, types, and shapes; attribute names and values; and optionally, the values of data for all variables or selected variables in a netCDF dataset.
+[libjpeg] (https://pypi.python.org/pypi/jpeg4py/0.1.1) is a free library with functions for handling the JPEG image data format.
 
 ```
-$ brew install ncdump
+$ brew install libjpeg
 ```
 
 ### Basemap
