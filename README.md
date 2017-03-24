@@ -106,7 +106,9 @@ $ conda update --all
 
 ## Running the Jupyter Notebooks
 
-The material for the course is in the form of [Jupyter notebooks](http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html). In a nutshell, a Jupyter notebook is a web-based interactive computational environment (i.e., running in the browser) where you can combine Python code execution, text, mathematics, plots and rich media into a single document, which makes it an ideal medium for teaching and exploring code. Create a folder on your Desktop and name PC428_Python. Then on you terminal, navigate to this folder (e.g., type cd \Users\singh_aw\Desktop\PC428_Python\ and press enter) then type:
+The material for the course is in the form of [Jupyter notebooks](http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html). In a nutshell, a Jupyter notebook is a web-based interactive computational environment (i.e., running in the browser) where you can combine Python code execution, text, mathematics, plots and rich media into a single document, which makes it an ideal medium for teaching and exploring code. 
+
+Create a folder on your Desktop and name it PC428_Python. Then on you Anaconda terminal, navigate to this folder (e.g., type cd \Users\singh_aw\Desktop\PC428_Python\ and press enter) then type:
 
 ```
 $ jupyter notebook
