@@ -88,6 +88,14 @@ GNU Wget (or just Wget, formerly Geturl, also written as its package name, wget)
 $ conda install -c anaconda wget=2.2
 ```
 
+### openpyxl
+
+Excel is a popular and powerful spreadsheet application for Windows. The `openpyxl` module allows your Python programs to read and modify Excel spreadsheet files. It can be installed via `conda` by typing:
+
+```
+$ conda install openpyxl
+```
+
 ### And just to be sure ...
 
 that you have all the necessary packages, type:
