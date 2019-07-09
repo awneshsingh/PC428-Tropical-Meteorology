@@ -26,7 +26,7 @@ Execute the downloaded file and follow the instructions to install Anaconda for 
 
 From the *Start* menu, right click on the **Anaconda Prompt** under **Anaconda (64-bit)** select *More* and click on *Run as administrator*.
 
-Type the following at the terminal to update to the latest version of all pre-installed packages (the **$** sign represents the prompt, e.g., **(base) C:\Windows\system32>**):
+Type the following at the terminal to update to the latest version of all pre-installed packages (the **$** sign represents the prompt, e.g., **(base) C:\Windows\system32>**) and press *Enter*:
 
 ```
 $ conda update conda
@@ -112,6 +112,13 @@ that you have all the necessary packages, type:
 
 ```
 $ conda update --all
+```
+
+### To exit...
+type
+
+```
+$ exit
 ```
 
 ## Running the Jupyter Notebooks
