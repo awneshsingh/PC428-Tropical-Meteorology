@@ -22,7 +22,7 @@ You will first need to to download (~662MB) and install the **Anaconda Python di
 [https://www.anaconda.com/distribution/](https://www.anaconda.com/distribution/)
 <!---[https://www.python.org/downloads/](https://www.python.org/downloads/)--->
 
-Execute the downloaded file and follow the instructions to install Anaconda for **All Users** (may require admin privileges). Once installed, the **Anaconda Documentation** webpage will open in your internet browser with instructions on **Getting started with Anaconda**. Follow the instructions.
+Execute the downloaded file and follow the instructions to install Anaconda **For me**. Once installed, the **Anaconda Documentation** webpage will open in your internet browser with instructions on **Getting started with Anaconda**. Follow the instructions. You can close the **Anaconda Cloud** webpage on the internet browser.
 
 From the *Start* menu, right click on the **Anaconda Prompt** under **Anaconda (64-bit)** select *More* and click on *Run as administrator*.
 
@@ -121,6 +121,7 @@ type
 $ exit
 ```
 
+<!---
 ## Running the Jupyter Notebooks
 
 The material for the course is in the form of [Jupyter notebooks](http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html). In a nutshell, a Jupyter notebook is a web-based interactive computational environment (i.e., running in the browser) where you can combine Python code execution, text, mathematics, plots and rich media into a single document, which makes it an ideal medium for teaching and exploring code. 
@@ -136,4 +137,6 @@ That should bring up the Jupyter notebook dashboard (looking as below), you shou
 ![](http://nbviewer.ipython.org/github/nicolasfauchereau/Python-for-data-analysis-and-visualisation/blob/master/session_1/notebooks/images/ipython_dashboard.png)
 
 Note that what you see above and what you would see on your screen would be differernt. I shall be giving you notes and exercises to do on Python. These will be provided on Moodle and you will need to download and save them in the **PC428_Python** folder you created on your Desktop.
+
+--->
 
