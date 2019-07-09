@@ -24,7 +24,9 @@ You will first need to to download (~662MB) and install the **Anaconda Python di
 
 Execute the downloaded file and follow the instructions to install Anaconda for **All Users** (may require admin privileges). Once installed, the **Anaconda Documentation** webpage will open in your internet browser with instructions on **Getting started with Anaconda**. Follow the instructions.
 
-Type the following at the terminal to update to the latest version of all pre-installed packages (the dollar represents the prompt):
+From the *Start* menu, right click on the **Anaconda Prompt** under **Anaconda (64-bit)** select *More* and click on *Run as administrator*.
+
+Type the following at the terminal to update to the latest version of all pre-installed packages (the *$* sign represents the prompt, e.g., **(base) C:\Windows\system32>**):
 
 ```
 $ conda update conda
