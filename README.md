@@ -46,7 +46,13 @@ $ conda install pip
 
 ## Installation of Additional Libraries
 
-Select *y* when prompted by **Proceed ([y]/n)?**. Note that you may get a message that nothing needs to be installed **# All requested packages already installed.**
+Python uses libraries to perform specific tasks. Some of these librarires are alreay installed when you intall Anaconda using the procedure above. Type the following to see the list of libraries already installed:
+
+```
+$ conda list
+```
+
+When installing additional libraries below, select *y* when prompted by **Proceed ([y]/n)?**. Note that you may get a message that nothing needs to be installed **# All requested packages already installed.**
 
 ### netcdf4
 
