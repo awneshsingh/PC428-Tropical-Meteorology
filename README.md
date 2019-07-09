@@ -26,7 +26,7 @@ Execute the downloaded file and follow the instructions to install Anaconda for 
 
 From the *Start* menu, right click on the **Anaconda Prompt** under **Anaconda (64-bit)** select *More* and click on *Run as administrator*.
 
-Type the following at the terminal to update to the latest version of all pre-installed packages (the *$* sign represents the prompt, e.g., **(base) C:\Windows\system32>**):
+Type the following at the terminal to update to the latest version of all pre-installed packages (the **$** sign represents the prompt, e.g., **(base) C:\Windows\system32>**):
 
 ```
 $ conda update conda
@@ -46,6 +46,8 @@ $ conda install pip
 
 ## Installation of Additional Libraries
 
+Select *y* when prompted by **Proceed ([y]/n)?**. Note that you may get a message that nothing needs to be installed **# All requested packages already installed.**
+
 ### netcdf4
 
 [netcdf4](https://github.com/Unidata/netcdf4-python) allows you to read and write netcdf files (version 3 and 4 supported), install it by typing:
@@ -54,13 +56,13 @@ $ conda install pip
 $ conda install netcdf4
 ```
 
+<!---
 ### libjpeg
-
 [libjpeg] (https://pypi.python.org/pypi/jpeg4py/0.1.1) is a free library with functions for handling the JPEG image data format and be installed by typing:
-
 ```
 $ brew install libjpeg
 ```
+--->
 
 ### Basemap
 
@@ -86,6 +88,7 @@ $ conda install seaborn
 $ conda install xarray
 ```
 
+<!---
 ### wget
 
 GNU Wget (or just Wget, formerly Geturl, also written as its package name, wget) is a computer program that retrieves content from web servers. It is part of the GNU Project. Its name derives from World Wide Web and get. It supports downloading via the HTTP, HTTPS, and FTP protocols.
@@ -93,6 +96,7 @@ GNU Wget (or just Wget, formerly Geturl, also written as its package name, wget)
 ```
 $ conda install -c anaconda wget=2.2
 ```
+--->
 
 ### openpyxl
 
