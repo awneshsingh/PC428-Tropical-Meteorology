@@ -16,13 +16,15 @@ Contact: [Dr. Awnesh Singh](mailto:awnesh.singh@usp.ac.fj)
 
 ## The Anaconda Python Distribution
 
-You will first need to to download (~662MB) and install the **Anaconda Python distribution**. It is a completely free enterprise-ready Python distribution for large-scale data processing, predictive analytics, and scientific computing. It includes the python interpreter itself, the python standard library as well as a set of packages exposing data structures and methods for data manipulation and scientific computing and visualization. In particular, it provides [Numpy](http://www.numpy.org/), [Scipy](http://www.scipy.org/), [Pandas](http://pandas.pydata.org/), [Matplotlib](http://matplotlib.org/), [scikit-learn](http://scikit-learn.org/stable/), etc., i.e., all the main packages we will be using during the semester. The Anaconda Python distribution (**NOTE**: select the version shipping with Python 3.7) should be downloaded for your platform (either 32-bit or 64-bit operating system) for the respective operating system (either Windows, macOS or Linux) from:
+You will first need to to download (~662MB) and install the **Anaconda Python distribution**. It is a completely free enterprise-ready Python distribution for large-scale data processing, predictive analytics, and scientific computing. It includes the python interpreter itself, the python standard library as well as a set of packages exposing data structures and methods for data manipulation and scientific computing and visualization. In particular, it provides [Numpy](http://www.numpy.org/), [Scipy](http://www.scipy.org/), [Pandas](http://pandas.pydata.org/), [Matplotlib](http://matplotlib.org/), [scikit-learn](http://scikit-learn.org/stable/), etc., i.e., all the main packages we will be using during the semester. The Anaconda Python distribution (**NOTE**: select the version shipping with Python 3.7) should be downloaded for your platform (either 32-bit or 64-bit operating system) for the respective operating system (e.g., Windows) from:
 
 <!---[http://continuum.io/downloads](http://continuum.io/downloads)--->
 [https://www.anaconda.com/distribution/](https://www.anaconda.com/distribution/)
 <!---[https://www.python.org/downloads/](https://www.python.org/downloads/)--->
 
-Execute the downloaded file and follow the instructions to install Anaconda. Once installed, you can update to the latest compatible versions of all the pre-installed packages by running the Anaconda Prompt as an Administrator [Start>Anaconda2(64-bit) then right click on Anaconda prompt to Run as Administrator]. Type the following at the terminal to update to the latest version of all pre-installed packages (the dollar represents the prompt):
+Execute the downloaded file and follow the instructions to install Anaconda for **All Users** (may require admin privileges). Once installed, the **Anaconda Documentation** webpage will open in your internet browser with instructions on **Getting started with Anaconda**. Follow the instructions.
+
+Type the following at the terminal to update to the latest version of all pre-installed packages (the dollar represents the prompt):
 
 ```
 $ conda update conda
