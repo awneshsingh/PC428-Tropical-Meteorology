@@ -120,6 +120,14 @@ Cartopy is a Python package designed for geospatial data processing in order to 
 $ conda install -c conda-forge cartopy
 ```
 
+### eofs
+
+eofs is a Python package for EOF analysis of spatial-temporal data. Using EOFs (empirical orthogonal functions) is a common technique to decompose a signal varying in time and space into a form that is easier to interpret in terms of spatial and temporal variance. eofs can be installed via `conda` by typing:
+
+```
+$ conda install -c conda-forge eofs
+```
+
 ### And just to be sure ...
 
 that you have all the necessary packages, type:
