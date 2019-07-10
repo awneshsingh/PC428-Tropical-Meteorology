@@ -112,6 +112,14 @@ Excel is a popular and powerful spreadsheet application for Windows. The `openpy
 $ conda install openpyxl
 ```
 
+### cartopy
+
+Cartopy is a Python package designed for geospatial data processing in order to produce maps and other geospatial data analyses. Cartopy makes use of the powerful PROJ.4, NumPy and Shapely libraries and includes a programmatic interface built on top of Matplotlib for the creation of publication quality maps. Key features of cartopy are its object oriented projection definitions, and its ability to transform points, lines, vectors, polygons and images between those projections. You will find cartopy especially useful for large area / small scale data, where Cartesian assumptions of spherical data traditionally break down. If you’ve ever experienced a singularity at the pole or a cut-off at the dateline, it is likely you will appreciate cartopy’s unique features! The module can be installed via `conda` by typing:
+
+```
+$ conda install -c conda-forge cartopy
+```
+
 ### And just to be sure ...
 
 that you have all the necessary packages, type:
