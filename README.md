@@ -16,7 +16,7 @@ Contact: [Dr. Awnesh Singh](mailto:awnesh.singh@usp.ac.fj)
 
 ## Python
 
-[What is Python?](https://www.w3schools.com/python/default.asp) Python is an open-soutrce  programming language that lets you work more quickly and integrate your systems more effectively. Python is realesed in two versions: Python 2 and Python 3 and is available from https://www.python.org/. Python uses [several libraries](https://docs.python.org/3/library/) to perform a range of tasks.
+What is Python? Python is an open-soutrce  programming language that lets you work more quickly and integrate your systems more effectively. Python is realesed in two versions: Python 2 and Python 3 and is available from https://www.python.org/. Python uses [several libraries](https://docs.python.org/3/library/) to perform a range of tasks. YOu can learn more here: https://www.w3schools.com/python/default.asp
 
 ## The Anaconda Python Distribution
 
