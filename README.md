@@ -15,7 +15,7 @@ Contact: [Dr. Awnesh Singh](mailto:awnesh.singh@usp.ac.fj)
 
 ## Python
 
-What is Python?(https://www.w3schools.com/python/default.asp)
+[What is Python?](https://www.w3schools.com/python/default.asp)
 
 ## The Anaconda Python Distribution
 
