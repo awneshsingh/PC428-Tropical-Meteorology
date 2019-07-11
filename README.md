@@ -13,8 +13,13 @@ Contact: [Dr. Awnesh Singh](mailto:awnesh.singh@usp.ac.fj)
 - [Installation of Additional Libraries](#installation-of-additional-libraries)
 <!---- [Running the Jupyter Notebooks](#running-the-jupyter-notebooks)--->
 
+## Python
+
+What is Python?(https://www.w3schools.com/python/default.asp)
 
 ## The Anaconda Python Distribution
+
+Anaconda is a Python-based data processing and scientific computing platform. It has built in many very useful third-party libraries. Installing Anaconda is equivalent to automatically installing Python and some commonly used libraries such as Numpy, Pandas, Scrip, and Matplotlib, so it makes the installation so much easier than regular Python installation. If you don't install Anaconda, but instead only install Python from python.org, you also need to use pip to install various libraries one by one. It is painful and you need to consider compatibility, thus it is highly recommended to directly install Anaconda.
 
 You will first need to to download (~662MB) and install the **Anaconda Python distribution**. It is a completely free enterprise-ready Python distribution for large-scale data processing, predictive analytics, and scientific computing. It includes the python interpreter itself, the python standard library as well as a set of packages exposing data structures and methods for data manipulation and scientific computing and visualization. In particular, it provides [Numpy](http://www.numpy.org/), [Scipy](http://www.scipy.org/), [Pandas](http://pandas.pydata.org/), [Matplotlib](http://matplotlib.org/), [scikit-learn](http://scikit-learn.org/stable/), etc., i.e., all the main packages we will be using during the semester. The Anaconda Python distribution (**NOTE**: select the version shipping with Python 3.7) should be downloaded for your platform (either 32-bit or 64-bit operating system) for the respective operating system (e.g., Windows) from:
 
