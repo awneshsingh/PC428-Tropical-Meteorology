@@ -153,8 +153,9 @@ $ exit
 
 There are numerous Python exercises to try out fron the internet. Some of the good ones are listed below:
 
+
+- [https://www.w3schools.com/python/default.asp](https://www.w3schools.com/python/default.asp) [preferred]
 - [https://www.tutorialspoint.com/python3/index.htm](https://www.tutorialspoint.com/python3/index.htm)
-- [https://www.w3schools.com/python/default.asp](https://www.w3schools.com/python/default.asp)
 
 ## Remember...
  
