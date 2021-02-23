@@ -157,6 +157,7 @@ There are numerous Python exercises to try out fron the internet. Some of the go
 - [https://www.w3schools.com/python/default.asp](https://www.w3schools.com/python/default.asp) [preferred]
 - [https://www.tutorialspoint.com/python3/index.htm](https://www.tutorialspoint.com/python3/index.htm)
 
+
 ## Remember...
  
 Learning Python can be fun. But it is important to learn the very basics first before moving into more complex problems. The exercises above should help you learn the basics of Python and should prepare you well for data analysis later on. There are many Python forums that are helpful if you get stuck. And I am just an email away. Lets start coding! 
