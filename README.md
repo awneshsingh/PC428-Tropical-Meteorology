@@ -11,6 +11,7 @@ Contact: [Dr. Awnesh Singh](mailto:awnesh.singh@usp.ac.fj)
 - [The Anaconda Python Distribution](#the-anaconda-python-distribution)
 - [Installing the Anaconda Python Distribution](#installing-the-anaconda-Ppython-distribution)
 - [Installation of Additional Libraries](#installation-of-additional-libraries)
+- [Jupyter Notebook](#Jupyter Notebook)
 - [Some Exercises](#some-exercises)
 - [Remember...](#remember)
 
