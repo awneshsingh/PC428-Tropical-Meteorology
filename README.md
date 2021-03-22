@@ -149,6 +149,15 @@ type
 $ exit
 ```
 
+## Jupyter Notebook
+
+The Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text. Uses include: data cleaning and transformation, numerical simulation, statistical modeling, data visualization, machine learning, and much more. 
+
+You can open Jupyter Notebook using either of the following:
+1. From the *Start* menu, click on **Anaconda3 (64-bit)** and select **Jupyter Notebook (Anaconda3)**. Jupyter Notebook will open in your default Internet Browser.
+2. From the *Start* menu, click on **Anaconda Navigator (Anaconda3)**. A new window of Anaconda Navigator will open. Search for Jupyter Notebook and click on **Launch**. Jupyter Notebook will open in your default Internet Browser.
+
+
 ## Some Exercises
 
 There are numerous Python exercises to try out fron the internet. Some of the good ones are listed below:
