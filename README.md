@@ -1,4 +1,4 @@
-# Python for PC428: Tropical Meteorology and PC430: Advanced Physical Oceanography
+# Python for PC428: Tropical Meteorology
 
 Contact: [Dr. Awnesh Singh](mailto:awnesh.singh@usp.ac.fj)
 
