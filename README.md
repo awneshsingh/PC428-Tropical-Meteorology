@@ -77,14 +77,6 @@ $ brew install libjpeg
 ```
 --->
 
-### Basemap
-
-**Basemap** is a graphic library for plotting (static, publication quality) geographical maps (see [http://matplotlib.org/basemap/](http://matplotlib.org/basemap/)). **Basemap** is available directly in **Anaconda** using the conda package manager, install by typing:
-
-```
-$ conda install basemap
-```
-
 ### Seaborn
 
 [seaborn](http://web.stanford.edu/~mwaskom/software/seaborn/) is a Python visualization library based on matplotlib. It provides a high-level interface for drawing attractive statistical graphics. You should be able to install it with ```conda``` as well:
